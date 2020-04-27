@@ -1,4 +1,4 @@
-# Day 27
+# Day 26
 # Longest Common Subsequence
 
 # Given two strings text1 and text2, return the length of their longest common subsequence.
